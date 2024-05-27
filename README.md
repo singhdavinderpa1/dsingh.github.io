@@ -1,4 +1,4 @@
-![GitHub Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<!-- ![GitHub Mark](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) -->
 
 # Hi 👋, I'm Davinder!
 
